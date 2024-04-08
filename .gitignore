@@ -1,0 +1,46 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CMake build directory
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+build/
+Makefile
+
+# Visual Studio Code specific files
+.vscode/
+
+# macOS specific files
+.DS_Store
+
+# GCC specific files
+*.dSYM/
+
+# Clang specific files
+*.plist
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
